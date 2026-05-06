@@ -29,7 +29,7 @@ public class HelloController {
                     border-radius: 15px;
                     width: 600px;
                     margin: auto;
-                    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+                    box-shadow: 0 0 20px rgb(0,0,0,0.5);
                 }
 
                 h1 {
@@ -53,7 +53,7 @@ public class HelloController {
 
                 <p>GitHub Actions → Docker → AWS EC2</p>
 
-                <p>🔥 Fully Automated Deployment</p>
+                <p> Fully Automated Deployment</p>
             </div>
 
         </body>
