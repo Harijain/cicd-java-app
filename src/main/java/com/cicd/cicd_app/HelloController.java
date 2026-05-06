@@ -84,7 +84,7 @@ public class HelloController {
 
         <div class="container">
             <h1>🚀 DevOps CI/CD Dashboard</h1>
-            <div class="subtitle">Live Automated Deployment System</div>
+            <div class="subtitle">Live manual Deployment System</div>
 
             <div class="grid">
                 <div class="card">
