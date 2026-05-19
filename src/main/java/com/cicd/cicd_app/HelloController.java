@@ -47,7 +47,7 @@ public class HelloController {
         <body>
 
             <div class="card">
-                <h1>🚀 DevOps CI/CD Dashboard</h1>
+                <h1>DevOps CI/CD Dashboard</h1>
 
                 <p class="status">✔ Pipeline Running Successfully</p>
 
