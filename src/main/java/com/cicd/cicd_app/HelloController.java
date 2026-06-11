@@ -271,7 +271,7 @@ Last Deployment<br>
                 
                 Continuous Integration<br>
                 
-                <strong>Continuous Deployment</strong>
+                <strong> Deployment</strong>
                 
                 </div>
                 
